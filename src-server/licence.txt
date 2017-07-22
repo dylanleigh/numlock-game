@@ -1,0 +1,39 @@
+
+ Copyright (c) 2004-2005 Dylan Leigh.
+
+
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+
+ 3. Modified versions must be plainly marked as such, and must not be
+    misrepresented as being the original software.
+
+ 4. The names of the authors or copyright holders must not be used to
+    endorse or promote products derived from this software without prior
+    written permission.
+
+ 5. The end-user documentation and/or other materials included with the
+    redistribution must include an acknowledgement of the contribution
+    made by the authors and copyright holders. Alternatively, this
+    acknowledgment may appear in the software itself, if and wherever
+    such third-party acknowledgments normally appear.
+
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED
+ OF THE POSSIBILITY OF SUCH DAMAGE.
+ 
+
